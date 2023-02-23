@@ -7,7 +7,9 @@ I have been coding as a hobby since 2020 and I recently finished a software engi
 I am now working as an assistant trainer for Institute Of Data on their part time software engineering course
 
 My top projects in here are 
-* Leebay (Fullstack)
-* Nelson Portable Coolrooms
-* Squish the Alien
-* Rick and Morty Character Cards
+* Leebay (Fullstack project similar to Ebay)
+* Nelson Portable Coolrooms (freelance React front end project)
+* Squish the Alien (Front end fun project - browser game)
+* Rick and Morty Character Cards (Front End & Full stack variations)
+
+My ambition is to land a career as a full stack developer
