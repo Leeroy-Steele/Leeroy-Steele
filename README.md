@@ -1,4 +1,4 @@
-#Hi!
+Hi!
 
 I'm Leeroy. Junior web developer & Audio Visual Engineer
 
