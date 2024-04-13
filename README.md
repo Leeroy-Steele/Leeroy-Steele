@@ -4,10 +4,10 @@ I'm Leeroy. Junior web developer & Audio Visual Engineer
 
 I have been coding as a hobby since 2020 and I recently finished a software engineering course with AUT/ Institute of Data in 2023
 
-I am now working as an assistant trainer for Institute Of Data on their part time software engineering course
+I am currently working as a Product Support Specialist / QA for Lancom, NZ. My aim is to start a career as a full stack developer in the next 6 months
+***
 
-
-My top projects in here are 
+**My top projects in here are**
 * Recipe-App (Fullstack NextJS App, currently deployed serverless to vercel)
 * Leebay (Fullstack project similar to Ebay)
 * Nelson Portable Coolrooms (freelance React front end project)
@@ -15,4 +15,4 @@ My top projects in here are
 * Rick and Morty Character Cards (Front End & Full stack variations)
 
 
-My aim is to land a career as a full stack developer in the next 3 months
+
