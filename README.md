@@ -8,6 +8,7 @@ I am now working as an assistant trainer for Institute Of Data on their part tim
 
 
 My top projects in here are 
+* Recipe-App (Fullstack NextJS App, currently deployed serverless to vercel)
 * Leebay (Fullstack project similar to Ebay)
 * Nelson Portable Coolrooms (freelance React front end project)
 * Squish the Alien (Front end fun project - browser game)
